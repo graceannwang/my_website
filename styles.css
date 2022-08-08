@@ -61,3 +61,15 @@ body {
     font-size: 18px;
     color: #d0d0d0;
 }
+
+.socials-wrap {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin: 10px;
+}
+
+.socials-wrap img {
+    width: 40px;
+    height: 45px;
+}
